@@ -1,6 +1,6 @@
 # Developer Portfolio
 
-A structured portfolio website designed to present my projects, experience, and technical direction as a junior software developer transitioning from frontend development into backend engineering.
+A structured portfolio website designed to present my projects, experience, and technical direction as a junior software developer who started with frontend development and is expanding into backend engineering.
 
 ---
 
@@ -11,7 +11,7 @@ This portfolio is not just a showcase of projects, but a structured representati
 It highlights:
 - Practical applications I have built
 - How I think about systems and architecture
-- My progression from frontend foundations into backend development
+- My expansion from frontend foundations into backend development
 
 The goal is to communicate both **what I have built** and **how I approach building software**.
 
